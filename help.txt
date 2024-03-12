@@ -1,0 +1,6 @@
+# pour executer les commandes dans le meme environnement --  py -m [nom de la lib]  ex:
+# py -m  pour ouvrir la librairie en mode lecture
+
+
+# py -m jupyter notebook
+# py -m pip freeze
